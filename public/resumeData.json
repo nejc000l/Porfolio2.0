@@ -66,7 +66,15 @@
         "level": "99%"
       },
       {
-        "name": "Web Development",
+        "name": "SASS",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "TailwindCss",
         "level": "95%"
       }
     ]
