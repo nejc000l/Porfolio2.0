@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Nejc Lampič",
+    "occupation": "Full Stack Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi, Im a front end developer and designer. I premairly use frameworks such as react NodeJS, NexttJS and Javascript. In the past few years i dedicated a lot of my time to development and looking forward to learn something new every day and contribute to the industry!",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "nejc.lampic@gmail.com",
+    
+    "address": {
+      "city": "Ljubljana",
+      "country": "Slovenia",
+      "zip": "1000"
+    },
+    "resumedownload": "http://papareact.com",
+    "social": [
+     
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nejc.lampic.5",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "linkedin.com/in/nejc-lampic",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nejc000l?tab=repositories",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Kent - UK",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2016",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+    
+      {
+        "name": "Node",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Waves Music App (React JS)",
+        "category": "",
+        "image": "waves.png",
+        "url": "https://nejc000l.github.io/Waves-Player_final/",
+        "github":"https://github.com/nejc000l/Waves-Player_final/tree/master"
+      },
+      {
+        "title": "Reddit 2.0 Clone (React JS, NextJs, TailwindCss)",
+        "category": "",
+        "image": "reddit-2.png",
+        "url": "https://reddit2-0-two.vercel.app/",
+        "github":"https://github.com/nejc000l/Reddit2.0"
+
+      },
+      {
+        "title": " Airbnb 2.0 Clone (React JS, NextJs, Tailwind, Superbase)",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://airclone-nu-one.vercel.app/",
+        "github":"https://github.com/nejc000l/Air_Clone"
+
+      },
+      {
+        "title": "Ecommerce Shopify Demo (React JS, NextJs, Tailwind, Shopify)",
+        "category": "",
+        "image": "eCommerce.png",
+        "url": "https://github.com/nejc000l/Shopify-Demo-/tree/main",
+        "github":"https://shopify-demo-lyq2w95yg-nejc000l.vercel.app/"
+
+      },
+      {
+        "title": " movieDB (React JS, Css)",
+        "category": "",
+        "image": "movieDB.png",
+        "url": "https://cheery-shortbread-a6e5c2.netlify.app/",
+        "github":"https://github.com/nejc000l/tmdb_demo"
+},
+      {
+        "title": " Javascript Animated (Javascript, Css, Html)",
+        "category": "",
+        "image": "website javascript.png",
+        "url": "https://cerulean-lolly-9f36e3.netlify.app/",
+        "github":"https://github.com/nejc000l/Travel-Animation-Javascirpt"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
