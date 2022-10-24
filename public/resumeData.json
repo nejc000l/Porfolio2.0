@@ -74,6 +74,10 @@
         "level": "95%"
       },
       {
+        "name": "Typscript",
+        "level": "95%"
+      },
+      {
         "name": "TailwindCss",
         "level": "95%"
       }
@@ -81,12 +85,19 @@
   },
   "portfolio": {
     "projects": [
-      {
+      { "name_title":"Waves Music App",
         "title": "Waves Music App (React JS)",
         "category": "",
         "image": "waves.png",
         "url": "https://nejc000l.github.io/Waves-Player_final/",
         "github":"https://github.com/nejc000l/Waves-Player_final/tree/master"
+      },
+      { "name_title":"Twitter",
+        "title": "Twitter 2.0 (React JS,NextJs,Tailwind,Sanity,Typscript)",
+        "category": "",
+        "image": "twitter.png",
+        "url": "https://twiter-clone2-0.vercel.app/",
+        "github":"https://github.com/nejc000l/twiter_clone2.0"
       },
       {
         "title": "Reddit 2.0 Clone (React JS, NextJs, TailwindCss)",
@@ -110,6 +121,14 @@
         "image": "eCommerce.png",
         "url": "https://github.com/nejc000l/Shopify-Demo-/tree/main",
         "github":"https://shopify-demo-lyq2w95yg-nejc000l.vercel.app/"
+
+      },
+      {
+        "title": "Netflix Clone (React JS, NextJs, Sass, Firebase)",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://neftflix-clone-mpo0zo89y-nejc000l.vercel.app/",
+        "github":"https://github.com/nejc000l/neftflix_clone.git"
 
       },
       {
