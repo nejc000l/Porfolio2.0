@@ -92,6 +92,13 @@
         "url": "https://nejc000l.github.io/Waves-Player_final/",
         "github":"https://github.com/nejc000l/Waves-Player_final/tree/master"
       },
+      { "name_title":"Amazon Clone",
+        "title": "Amazon Clone(NextJs)",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://amazon-ten-zeta.vercel.app/",
+        "github":"https://github.com/nejc000l/amazon.git"
+      },
       { "name_title":"Twitter",
         "title": "Twitter 2.0 (React JS,NextJs,Tailwind,Sanity,Typscript)",
         "category": "",
@@ -137,14 +144,7 @@
         "image": "movieDB.png",
         "url": "https://cheery-shortbread-a6e5c2.netlify.app/",
         "github":"https://github.com/nejc000l/tmdb_demo"
-},
-      {
-        "title": " Javascript Animated (Javascript, Css, Html)",
-        "category": "",
-        "image": "website javascript.png",
-        "url": "https://cerulean-lolly-9f36e3.netlify.app/",
-        "github":"https://github.com/nejc000l/Travel-Animation-Javascirpt"
-      }
+}
     ]
   },
   "testimonials": {
